@@ -1,0 +1,12 @@
+print(len("12345"))
+print(type(124))
+print(type("Abdullah Zeb"))
+print(type(123.4))
+print(type(35_46_25))
+print(type(True))
+
+name_of_user = input("Enter your name: ")
+length_of_name = len(name_of_user)
+print(type(name_of_user))
+print(type(length_of_name))
+print(length_of_name)
